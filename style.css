@@ -92,21 +92,21 @@
 
 #item1 {
   grid-row: 1/2;
-  background-image: url("../HTML CSS assignment/pexels-rachel-claire-6752433.jpg");
+  background-image: url("pexels-rachel-claire-6752433.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 
 #item2 {
   grid-row: 2/3;
-  background-image: url("../HTML CSS assignment/pexels-eva-bronzini-6141651.jpg");
+  background-image: url("pexels-eva-bronzini-6141651.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 
 #item3 {
   grid-row: 1/3;
-  background-image: url("../HTML CSS assignment/pexels-mister-mister-3434523.jpg");
+  background-image: url("pexels-mister-mister-3434523.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
